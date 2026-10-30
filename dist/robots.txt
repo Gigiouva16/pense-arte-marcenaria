@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pense-arte-marcenaria.gigiouva.chatgpt.site/sitemap.xml
